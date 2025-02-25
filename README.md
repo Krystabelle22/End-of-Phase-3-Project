@@ -18,10 +18,10 @@ The primary stakeholders for this project include:
 ### Dataset Choice
 The dataset used in this project contains historical order records, including delivery times, order details, and customer feedback. Key features include:
 
-Order Timestamp – When the order was placed.
-Delivery Time – Actual time taken to deliver.
-Distance – Between the warehouse and customer location.
-Customer Ratings – Feedback on service quality.
+- Order Timestamp – When the order was placed.
+- Delivery Time – Actual time taken to deliver.
+- Distance – Between the warehouse and customer location.
+- Customer Ratings – Feedback on service quality.
 
 ## Modeling Approach
 To develop a predictive model that classifies orders as on-time or delayed, we follow these key steps:
