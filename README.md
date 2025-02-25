@@ -1,6 +1,8 @@
 # End-of-Phase-3-Project
 
 # Will Your Order Arrive on Time? A Predictive Analysis
+![image](https://github.com/user-attachments/assets/907dfa5f-c251-446d-a5f8-78553c869193)
+
 ## Overview
 This project aims to develop a predictive model that determines whether an order will be on time or delayed based on key factors such as delivery distance, order time, and customer ratings. The model will provide insights and recommendations to improve delivery efficiency and reduce delays.
 This section includes a more in-depth explanation of the methodology and analysis used.
